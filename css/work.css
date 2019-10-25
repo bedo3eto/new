@@ -1,0 +1,157 @@
+body {
+    
+    font-family: fantasy
+}
+.container {
+  margin: auto;
+}
+
+h1 {
+font-size: 50px;
+width: 600px;
+padding-top: 200px;
+text-align: center;
+    margin: auto;
+    color: #eee;
+}
+
+p{ 
+color: #eee;
+    text-align: right;
+    padding-right: 380px;
+     font-size: 40px;
+    margin: 5px
+}
+
+
+.img {
+height: 0;    
+}
+
+.gift {
+  padding-top: 350px;
+    overflow: hidden;
+    margin-bottom: -200px;
+
+}
+h2{
+    font-size: 40px;
+width: 600px;
+padding-top: 200px;
+text-align: center;
+    margin: auto;
+    color: black;
+}
+.here {
+    margin: 50px;
+    padding-left: 180px;
+}
+
+.tst {
+      font-size: 45px;
+    position: relative;
+    bottom: 300px;
+    margin-left: 20%;
+    color: #fff;
+}
+span {
+    color: black;
+}
+
+ p4 {
+    font-size: 25px;
+   bottom: 280px;
+     position: relative;
+     color: #eee;
+     margin: 250px;
+     
+}
+
+ p5 {
+    font-size: 25px;
+   bottom: 360px;
+     position: relative;
+     color: #eee;
+     margin: 660px;
+     
+}
+ button {
+   border: 1px solid white;
+     padding: 10px;
+     background: none;
+   position: relative;
+     float: right;
+     bottom: 330px;
+     margin-right: 460px;
+     color: #FFF;
+     font-size: 15px;
+         
+     
+   
+}
+
+.tst1 {
+      font-size: 45px;
+    position: relative;
+    bottom: 380px;
+    margin-left: 53%;
+    color: #fff;
+}
+
+
+
+.navbar {
+   
+overflow: hidden;
+    position: relative;
+    left: 233px;
+   
+}
+
+.navbar >div {
+    float: left;
+    padding: 5px;
+    
+}
+h3 {
+    font-size: 25px;
+    margin-left: 48%;
+}
+
+h4 {
+    padding-left: 46%;
+    font-size: 30px;
+    margin-top: 120px;
+}
+
+p10{
+    padding-left: 41%;
+    
+}
+hr {
+    width: 70px;
+    
+}
+
+td{
+        padding: 15px;
+
+}
+.tot{
+    margin-left: 220px;  
+    margin-top: 40px;
+    overflow: hidden;
+}
+.tt {
+    float: right;
+position: relative;
+bottom: 220px;
+    margin-right: 200px;
+}
+
+.twt {
+    float: right;
+position: relative;
+bottom: 220px;
+    margin-right: 100px;
+}
